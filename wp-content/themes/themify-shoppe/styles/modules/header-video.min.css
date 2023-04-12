@@ -1,0 +1,1 @@
+.big-video-wrap,.header-video-wrap{z-index:0;user-select:none;pointer-events:none}video.tf-video{position:absolute;display:block}.big-video-image{position:absolute;z-index:-2}.header-video-wrap video{object-fit:cover}#headerwrap[data-fullwidthvideo][data-bg]{border-bottom-width:0;background-size:cover}

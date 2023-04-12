@@ -1,0 +1,1714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCargo\n"
+"POT-Creation-Date: 2022-09-14 15:36+0800\n"
+"PO-Revision-Date: 2022-09-14 15:40+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpcargo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/classes/class-wpc-admin-scripts.php:18
+#: admin/templates/package-metabox.tpl.php:71
+#: admin/templates/shipment-history-editable.tpl.php:61
+msgid "Are you sure you want to delete this element?"
+msgstr "Kas olete kindel, et soovite selle elemendi kustutada?"
+
+#: admin/classes/class-wpc-admin-scripts.php:19
+msgid "--Please Select Client--"
+msgstr "--Palun valige klient --"
+
+#: admin/classes/class-wpc-admin-settings.php:58 admin/includes/hooks.php:276
+msgid "Settings"
+msgstr "Seaded"
+
+#: admin/classes/class-wpc-admin-settings.php:67
+msgid "Get Started Here"
+msgstr "Alustage siit"
+
+#: admin/classes/class-wpc-admin-settings.php:68
+msgid "Documentation"
+msgstr "Dokumentatsioon"
+
+#: admin/classes/class-wpc-admin-settings.php:73
+msgid "Add Ons"
+msgstr "Lisa ons"
+
+#: admin/classes/class-wpc-admin-settings.php:74
+msgid "More Info"
+msgstr "Rohkem infot"
+
+#: admin/classes/class-wpc-admin-settings.php:79
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/classes/class-wpc-admin-settings.php:80
+msgid "Like our page"
+msgstr "Nagu meie leht"
+
+#: admin/classes/class-wpc-admin-settings.php:85
+msgid "Get Support"
+msgstr "Saage tuge"
+
+#: admin/classes/class-wpc-admin-settings.php:86
+msgid "Contact Us"
+msgstr "Võta meiega ühendust"
+
+#: admin/classes/class-wpc-admin-settings.php:91
+msgid "Get Website Hosting"
+msgstr "Hankige veebisaidi hostimine"
+
+#: admin/classes/class-wpc-admin-settings.php:92
+msgid "Free Website Design"
+msgstr "Tasuta veebisaidi kujundus"
+
+#: admin/classes/class-wpc-custom-table.php:79
+msgid "No Category"
+msgstr "Nimekirju pole"
+
+#: admin/classes/class-wpc-custom-table.php:84
+msgid "Invoice"
+msgstr "Arve"
+
+#: admin/classes/class-wpc-custom-table.php:85
+msgid "Waybill"
+msgstr "Saateleht"
+
+#: admin/classes/class-wpc-custom-table.php:140
+msgid "Update Shipment Status"
+msgstr "Saadetise oleku värskendamine"
+
+#: admin/classes/class-wpc-custom-table.php:143
+msgid "Current City"
+msgstr "Praegune linn"
+
+#: admin/classes/class-wpc-custom-table.php:146
+msgid "--Select Status--"
+msgstr "--Vali olek--"
+
+#: admin/classes/class-wpc-custom-table.php:154
+msgid "No Shipment Status Found."
+msgstr "Saadetise olekut ei leitud."
+
+#: admin/classes/class-wpc-custom-table.php:154
+#: admin/templates/settings-option.tpl.php:25
+msgid "Add Shipment Status"
+msgstr "Saadetise oleku lisamine"
+
+#: admin/classes/class-wpc-custom-table.php:156
+#: admin/includes/functions.php:503
+msgid "Remarks"
+msgstr "Märkused"
+
+#: admin/classes/class-wpc-custom-table.php:164
+msgid "Select Agent"
+msgstr "Vali töötaja"
+
+#: admin/classes/class-wpc-custom-table.php:166 admin/includes/hooks.php:302
+msgid "— No Change —"
+msgstr "— Muutmata —"
+
+#: admin/classes/class-wpc-export-extend.php:58
+msgid "Purchase"
+msgstr "Osta"
+
+#: admin/classes/class-wpc-export-extend.php:59
+msgid "If you want a more comprehensive and customizable report, purchase"
+msgstr "Kui soovite põhjalikumat ja kohandatavamat aruannet, ostke"
+
+#: admin/classes/class-wpc-export-extend.php:144
+msgid "Shipment Reports"
+msgstr "Saadetiste aruanded"
+
+#: admin/classes/class-wpc-export.php:8 admin/includes/functions.php:239
+#: admin/includes/hooks.php:564 admin/templates/shipper-metabox.tpl.php:7
+msgid "Shipper Name"
+msgstr "Saatja nimi"
+
+#: admin/classes/class-wpc-export.php:13 admin/classes/class-wpc-export.php:33
+#: admin/classes/class-wpc-export.php:43 admin/includes/hooks.php:565
+#: admin/includes/hooks.php:583 admin/templates/receiver-metabox.tpl.php:14
+#: admin/templates/shipper-metabox.tpl.php:11
+msgid "Phone Number"
+msgstr "Telefoninumber"
+
+#: admin/classes/class-wpc-export.php:18
+#: admin/templates/print-details-shipper.tpl.php:14
+msgid "Shipper Address"
+msgstr "Saatja aadress"
+
+#: admin/classes/class-wpc-export.php:23 admin/includes/functions.php:122
+msgid "Shipper Email"
+msgstr "Saatja e-posti aadress"
+
+#: admin/classes/class-wpc-export.php:28 admin/includes/functions.php:245
+#: admin/includes/hooks.php:582 admin/templates/receiver-metabox.tpl.php:8
+msgid "Receiver Name"
+msgstr "Vastuvõtja nimi"
+
+#: admin/classes/class-wpc-export.php:38
+#: admin/templates/print-details-shipper.tpl.php:22
+msgid "Receiver Address"
+msgstr "Vastuvõtja aadress"
+
+#: admin/classes/class-wpc-export.php:48 admin/includes/functions.php:123
+msgid "Receiver Email"
+msgstr "Vastuvõtja e-posti aadress"
+
+#: admin/classes/class-wpc-export.php:53
+#: admin/templates/assign-metabox.tpl.php:27
+msgid "Agent Name"
+msgstr "Maakleri nimi"
+
+#: admin/classes/class-wpc-export.php:58 admin/includes/functions.php:535
+#: admin/templates/admin-print-label.tpl.php:85
+#: admin/templates/shipment-metabox.tpl.php:7
+msgid "Type of Shipment"
+msgstr "Saadetise liik"
+
+#: admin/classes/class-wpc-export.php:63 admin/includes/functions.php:536
+#: admin/templates/admin-print-label.tpl.php:46
+#: admin/templates/shipment-metabox.tpl.php:32
+msgid "Courier"
+msgstr "Courier"
+
+#: admin/classes/class-wpc-export.php:68 admin/includes/functions.php:538
+#: admin/templates/admin-print-label.tpl.php:94
+#: admin/templates/shipment-metabox.tpl.php:40
+msgid "Mode"
+msgstr "Režiim"
+
+#: admin/classes/class-wpc-export.php:73
+#: admin/classes/class-wpc-mp-settings.php:119 admin/includes/functions.php:543
+#: admin/templates/admin-print-label.tpl.php:92
+#: admin/templates/shipment-metabox.tpl.php:65
+msgid "Quantity"
+msgstr "Määrä"
+
+#: admin/classes/class-wpc-export.php:78 admin/includes/functions.php:544
+#: admin/templates/admin-print-label.tpl.php:91
+#: admin/templates/shipment-metabox.tpl.php:89
+msgid "Total Freight"
+msgstr "Kaubavedu kokku"
+
+#: admin/classes/class-wpc-export.php:83 admin/includes/functions.php:537
+#: admin/templates/admin-print-label.tpl.php:54
+#: admin/templates/shipment-metabox.tpl.php:114
+msgid "Carrier Reference No."
+msgstr "Vedaja viitenumber"
+
+#: admin/classes/class-wpc-export.php:88 admin/includes/functions.php:546
+#: admin/templates/admin-print-label.tpl.php:40
+#: admin/templates/shipment-metabox.tpl.php:125
+msgid "Origin"
+msgstr "Päritolu"
+
+#: admin/classes/class-wpc-export.php:93 admin/includes/functions.php:547
+#: admin/templates/admin-print-label.tpl.php:29
+#: admin/templates/shipment-metabox.tpl.php:167
+msgid "Pickup Date"
+msgstr "Järeletulemise kuupäev"
+
+#: admin/classes/class-wpc-export.php:98 admin/includes/functions.php:129
+msgid "Shipment Status"
+msgstr "Saadetise olek"
+
+#: admin/classes/class-wpc-export.php:103
+#: admin/templates/shipment-metabox.tpl.php:179
+msgid "Comments"
+msgstr "Kommentaarid"
+
+#: admin/classes/class-wpc-export.php:108 admin/includes/functions.php:542
+#: admin/templates/admin-print-label.tpl.php:88
+#: admin/templates/shipment-metabox.tpl.php:28
+msgid "Weight"
+msgstr "Kaal"
+
+#: admin/classes/class-wpc-export.php:113
+#: admin/classes/class-wpc-metabox.php:98 admin/includes/functions.php:540
+#: admin/templates/admin-print-label.tpl.php:86
+#: admin/templates/shipment-metabox.tpl.php:36 templates/package.tpl.php:2
+msgid "Packages"
+msgstr "Paketid"
+
+#: admin/classes/class-wpc-export.php:118 admin/includes/functions.php:541
+#: admin/templates/admin-print-label.tpl.php:87
+#: admin/templates/shipment-metabox.tpl.php:61
+msgid "Product"
+msgstr "Toode"
+
+#: admin/classes/class-wpc-export.php:123 admin/includes/functions.php:545
+#: admin/templates/admin-print-label.tpl.php:93
+#: admin/templates/shipment-metabox.tpl.php:69
+msgid "Payment Mode"
+msgstr "Makserežiim"
+
+#: admin/classes/class-wpc-export.php:128 admin/includes/functions.php:539
+#: admin/templates/admin-print-label.tpl.php:51
+#: admin/templates/shipment-metabox.tpl.php:93
+msgid "Carrier"
+msgstr "Vedaja"
+
+#: admin/classes/class-wpc-export.php:133 admin/includes/functions.php:549
+#: admin/templates/admin-print-label.tpl.php:57
+#: admin/templates/shipment-metabox.tpl.php:118
+msgid "Departure Time"
+msgstr "Väljumisaeg"
+
+#: admin/classes/class-wpc-export.php:138 admin/includes/functions.php:548
+#: admin/templates/admin-print-label.tpl.php:43
+#: admin/templates/shipment-metabox.tpl.php:146
+msgid "Destination"
+msgstr "Sihtkoht"
+
+#: admin/classes/class-wpc-export.php:143 admin/includes/functions.php:550
+#: admin/templates/admin-print-label.tpl.php:32
+msgid "Pickup Time"
+msgstr "Järeletulemise kellaaeg"
+
+#: admin/classes/class-wpc-export.php:148 admin/includes/functions.php:551
+#: admin/templates/shipment-metabox.tpl.php:175
+msgid "Expected Delivery Date"
+msgstr "Eeldatav tarnekuupäev"
+
+#: admin/classes/class-wpc-export.php:153
+msgid "History"
+msgstr "Ajalugu"
+
+#: admin/classes/class-wpc-export.php:345
+msgid "No Result Found!"
+msgstr "Tulemust ei leitud!"
+
+#: admin/classes/class-wpc-metabox.php:47
+msgid "Current Status"
+msgstr "Praegune olek"
+
+#: admin/classes/class-wpc-metabox.php:82
+#: templates/result-shipment-history.tpl.php:2
+msgid "Shipment History"
+msgstr "Saadetise ajalugu"
+
+#: admin/classes/class-wpc-metabox.php:89
+msgid "Assign shipment to"
+msgstr "Määra saadetis"
+
+#: admin/classes/class-wpc-mp-settings.php:14
+#: admin/classes/class-wpc-mp-settings.php:15
+#: admin/classes/class-wpc-mp-settings.php:20
+#: admin/classes/class-wpc-mp-settings.php:21
+#: admin/classes/class-wpc-mp-settings.php:177
+msgid "Multiple Package Settings"
+msgstr "Mitu paketiseadet"
+
+#: admin/classes/class-wpc-mp-settings.php:37
+msgid "Enable Multiple Package on Admin?"
+msgstr "Kas lubada administraatoril mitu paketti?"
+
+#: admin/classes/class-wpc-mp-settings.php:44
+msgid "Enable Multiple Package on Results?"
+msgstr "Kas lubada tulemustel mitu paketti?"
+
+#: admin/classes/class-wpc-mp-settings.php:51
+#: admin/classes/class-wpc-mp-settings.php:58
+msgid "Enable Dimension Unit?"
+msgstr "Kas lubada dimensiooniüksus?"
+
+#: admin/classes/class-wpc-mp-settings.php:65
+#: admin/classes/class-wpc-mp-settings.php:119
+msgid "Dimension Divisor"
+msgstr "Mõõtmete jagaja"
+
+#: admin/classes/class-wpc-mp-settings.php:72
+msgid "Dimension Unit"
+msgstr "Mõõtmete üksus"
+
+#: admin/classes/class-wpc-mp-settings.php:79
+msgid "Weight Unit"
+msgstr "Kaaluühik"
+
+#: admin/classes/class-wpc-mp-settings.php:86
+msgid "Piece Type Selection"
+msgstr "Tükitüübi valik"
+
+#: admin/classes/class-wpc-mp-settings.php:96
+msgid ""
+"If checked you will enable the multiple package on your shipment admin "
+"dashboard."
+msgstr ""
+"Kui see on märgitud, lubate mitme paki oma saadetise administraatori "
+"juhtpaneelil."
+
+#: admin/classes/class-wpc-mp-settings.php:103
+msgid ""
+"If checked you will enable the multiple package on your shipment results."
+msgstr "Kui see on kontrollitud, lubate oma saadetise tulemustel mitu pakki."
+
+#: admin/classes/class-wpc-mp-settings.php:110
+msgid "If checked you will enable the dimension unit."
+msgstr "Kui see on märgitud, lubate dimensiooniühiku."
+
+#: admin/classes/class-wpc-mp-settings.php:118
+msgid "Note: These values are used in calculating Volumetric Weight."
+msgstr "Märkus: Neid väärtusi kasutatakse mahukaalu arvutamisel."
+
+#: admin/classes/class-wpc-mp-settings.php:119
+msgid "Formula"
+msgstr "Valem"
+
+#: admin/classes/class-wpc-mp-settings.php:119
+msgid "Volumetric Weight."
+msgstr "Mahuline kaal."
+
+#: admin/classes/class-wpc-mp-settings.php:119 includes/packages.php:328
+msgid "Length"
+msgstr "Pikkus"
+
+#: admin/classes/class-wpc-mp-settings.php:119 includes/packages.php:334
+msgid "Width"
+msgstr "Laius"
+
+#: admin/classes/class-wpc-mp-settings.php:119 includes/packages.php:340
+msgid "Height"
+msgstr "Kõrgus"
+
+#: admin/classes/class-wpc-mp-settings.php:132
+msgid "This will be display in the package Dimension. The default is cm."
+msgstr "See kuvatakse pakendis Dimension. Vaikimisi on cm."
+
+#: admin/classes/class-wpc-mp-settings.php:144
+msgid "This will be display in the package Weight. The default is lbs."
+msgstr "See kuvatakse pakendis Kaal. Vaikimisi on lbs."
+
+#: admin/classes/class-wpc-mp-settings.php:151
+msgid ""
+"This will be the selection for the Piece Type for the Package Information "
+"section. Comma separated ( Ex. Pallet, Carton, Crate, Loose, Others)"
+msgstr ""
+"See on jaotise Paketi teave tükitüübi valik. Koma eraldatud ( nt kaubaalus, "
+"karp, kast, lahtine, muu)"
+
+#: admin/classes/class-wpc-mp-settings.php:155
+msgid "Settings for Multiple Package, please fill out the fields below."
+msgstr "Mitme paketi seaded, palun täitke allolevad väljad."
+
+#: admin/classes/class-wpc-mp-settings.php:158
+msgid "Multiple Package"
+msgstr "Mitu paketti"
+
+#: admin/classes/class-wpc-post-types.php:11
+#: admin/classes/class-wpc-post-types.php:12
+msgctxt "Shipment"
+msgid "Shipment"
+msgstr "Saadetise"
+
+#: admin/classes/class-wpc-post-types.php:13
+#: admin/classes/class-wpc-post-types.php:26
+#: admin/classes/class-wpc-post-types.php:27
+msgid "Shipment"
+msgstr "Saadetise"
+
+#: admin/classes/class-wpc-post-types.php:14
+msgid "All Shipment"
+msgstr "Kõik saadetised"
+
+#: admin/classes/class-wpc-post-types.php:15
+msgid "View Shipment"
+msgstr "Vaata saadetist"
+
+#: admin/classes/class-wpc-post-types.php:16
+msgid "Add New Shipment"
+msgstr "Lisa uus saadetis"
+
+#: admin/classes/class-wpc-post-types.php:17
+msgid "Add Shipment"
+msgstr "Lisa saadetis"
+
+#: admin/classes/class-wpc-post-types.php:18
+msgid "Edit Shipment"
+msgstr "Muuda saadetist"
+
+#: admin/classes/class-wpc-post-types.php:19
+msgid "Update Shipment"
+msgstr "Saadetise värskendamine"
+
+#: admin/classes/class-wpc-post-types.php:20
+msgid "Search Shipment"
+msgstr "Otsi saadetist"
+
+#: admin/classes/class-wpc-post-types.php:21
+msgid "Shipment Not found"
+msgstr "Saadetist ei leitud"
+
+#: admin/classes/class-wpc-post-types.php:22
+msgid "Shipment Not found in Trash"
+msgstr "Saadetist ei leitud prügikastist"
+
+#: admin/classes/class-wpc-post-types.php:47
+#: admin/classes/class-wpc-post-types.php:48
+msgctxt "Category"
+msgid "Category"
+msgstr "Kategooria"
+
+#: admin/classes/class-wpc-post-types.php:49
+msgid "Search Category"
+msgstr "Otsingu kategooria"
+
+#: admin/classes/class-wpc-post-types.php:50
+msgid "All Category"
+msgstr "Kõik nimekirjad"
+
+#: admin/classes/class-wpc-post-types.php:51
+msgid "Parent Category"
+msgstr "Eelnev kategooria"
+
+#: admin/classes/class-wpc-post-types.php:52
+msgid "Parent Category:"
+msgstr "Ülem Katekooria:"
+
+#: admin/classes/class-wpc-post-types.php:53
+msgid "Edit Category"
+msgstr "Muuda kategooriat"
+
+#: admin/classes/class-wpc-post-types.php:54
+msgid "Update Category"
+msgstr "Uuendage kategooriat"
+
+#: admin/classes/class-wpc-post-types.php:55
+msgid "Add New Category"
+msgstr "Lisage uus kategooria"
+
+#: admin/classes/class-wpc-post-types.php:56
+msgid "New Category Name"
+msgstr "Uue kategooria nimetus"
+
+#: admin/classes/class-wpc-post-types.php:57
+msgid "Category"
+msgstr "Kategooria"
+
+#: admin/classes/class-wpc-print-admin.php:140
+msgid "Print Waybill"
+msgstr "Prindi saateleht"
+
+#: admin/classes/class-wpcargo.php:167
+msgid "Shipment Notification"
+msgstr "Saadetise teatis"
+
+#: admin/includes/filters.php:20
+msgid "-- Select All Status --"
+msgstr "-- Valige Kõik olekud --"
+
+#: admin/includes/filters.php:36
+msgid "-- Select All Category --"
+msgstr "-- Valige Kõik kategooriad --"
+
+#: admin/includes/filters.php:45
+msgid "-- All Agents --"
+msgstr "-- Kõik agendid --"
+
+#: admin/includes/filters.php:56
+msgid "-- All Owners --"
+msgstr "-- Kõik omanikud --"
+
+#: admin/includes/filters.php:70
+msgid "-- All Shipper --"
+msgstr "-- Kõik saatjad --"
+
+#: admin/includes/filters.php:83
+msgid "-- All Receiver --"
+msgstr "-- Kõik vastuvõtjad --"
+
+#: admin/includes/functions.php:121
+msgid "Tracking Number"
+msgstr "Jälgimise number"
+
+#: admin/includes/functions.php:124
+msgid "Shipper Phone"
+msgstr "Saatja telefon"
+
+#: admin/includes/functions.php:125
+msgid "Receiver Phone"
+msgstr "Vastuvõtja telefon"
+
+#: admin/includes/functions.php:126
+msgid "Admin Email"
+msgstr "Administraatori e-posti aadress"
+
+#: admin/includes/functions.php:127
+msgid "Name of the Shipper"
+msgstr "Saatja nimi"
+
+#: admin/includes/functions.php:128
+msgid "Name of the Receiver"
+msgstr "Vastuvõtja nimi"
+
+#: admin/includes/functions.php:130 admin/includes/functions.php:485
+#: admin/includes/hooks.php:460
+msgid "Location"
+msgstr "Asukoht"
+
+#: admin/includes/functions.php:131
+msgid "Website Name"
+msgstr "Veebisaidi nimi"
+
+#: admin/includes/functions.php:132
+msgid "Website URL"
+msgstr "Veebilehe aadress"
+
+#: admin/includes/functions.php:133
+msgid "Registered Client Email"
+msgstr "Registreeritud kliendi e-posti aadress"
+
+#: admin/includes/functions.php:140
+msgid "Pending"
+msgstr "Ootel"
+
+#: admin/includes/functions.php:141
+msgid "Picked up"
+msgstr "Korjatud"
+
+#: admin/includes/functions.php:142
+msgid "On Hold"
+msgstr "Ootel"
+
+#: admin/includes/functions.php:143
+msgid "Out for delivery"
+msgstr "Kohaletoimetamisel"
+
+#: admin/includes/functions.php:144
+msgid "In Transit"
+msgstr "Transiidil"
+
+#: admin/includes/functions.php:145
+msgid "Enroute"
+msgstr "Marsruut"
+
+#: admin/includes/functions.php:146
+msgid "Cancelled"
+msgstr "Tühistatud"
+
+#: admin/includes/functions.php:147
+msgid "Delivered"
+msgstr "Toimetatud"
+
+#: admin/includes/functions.php:148
+msgid "Returned"
+msgstr "Tagasi"
+
+#: admin/includes/functions.php:160
+msgid "-- Select Type --"
+msgstr "-- Valige Tüüp --"
+
+#: admin/includes/functions.php:364
+msgid "Previous"
+msgstr "Eelmine"
+
+#: admin/includes/functions.php:365
+msgid "Next"
+msgstr "Järgmine"
+
+#: admin/includes/functions.php:366
+msgid "Shipments Pagination"
+msgstr "Saadetiste lehitsemine"
+
+#: admin/includes/functions.php:406
+msgid "First"
+msgstr "Esimene"
+
+#: admin/includes/functions.php:408
+msgid "previous"
+msgstr "eelmine"
+
+#: admin/includes/functions.php:421
+msgid "next"
+msgstr "järgmine"
+
+#: admin/includes/functions.php:424
+msgid "Last"
+msgstr "Viimane"
+
+#. Plugin Name of the plugin/theme
+#: admin/includes/functions.php:440
+msgid "WPCargo"
+msgstr "WPCargo"
+
+#: admin/includes/functions.php:443
+msgid "General Settings"
+msgstr "Üldised seaded"
+
+#: admin/includes/functions.php:446
+msgid "Client Email Settings"
+msgstr "Kliendi e-posti seaded"
+
+#: admin/includes/functions.php:449
+msgid "Admin Email Settings"
+msgstr "Administraatori e-posti seaded"
+
+#: admin/includes/functions.php:452
+msgid "Shipment Settings"
+msgstr "Saadetise seaded"
+
+#: admin/includes/functions.php:455
+msgid "Reports"
+msgstr "Raportid"
+
+#: admin/includes/functions.php:458
+msgid "Map Settings"
+msgstr "Kaardi seaded"
+
+#: admin/includes/functions.php:461
+msgid "Print Layout"
+msgstr "Prindi küljendus"
+
+#: admin/includes/functions.php:464
+msgid "Shipment Label"
+msgstr "Saadetise silt"
+
+#: admin/includes/functions.php:467 admin/templates/shipment-metabox.tpl.php:2
+msgid "Shipment Details"
+msgstr "Saadetise üksikasjad"
+
+#: admin/includes/functions.php:473 admin/includes/hooks.php:459
+msgid "Date"
+msgstr "Kuupäev"
+
+#: admin/includes/functions.php:479
+msgid "Time"
+msgstr "Aeg"
+
+#: admin/includes/functions.php:491 admin/includes/hooks.php:461
+#: admin/templates/admin-print-label.tpl.php:69 templates/account.tpl.php:21
+#: templates/report.tpl.php:23
+msgid "Status"
+msgstr "Staatus"
+
+#: admin/includes/functions.php:497
+msgid "Updated By"
+msgstr "Uuendatud"
+
+#: admin/includes/functions.php:569
+msgid "From: "
+msgstr "Saatja: "
+
+#: admin/includes/functions.php:573
+msgid "Dear"
+msgstr "Armas"
+
+#: admin/includes/functions.php:574
+msgid "Shipment number "
+msgstr "Saadetise number "
+
+#: admin/includes/functions.php:574
+msgid " has been assigned to you."
+msgstr " on teile määratud."
+
+#: admin/includes/functions.php:579
+msgid "Assign Shipment Notification"
+msgstr "Saadetise teatise määramine"
+
+#: admin/includes/hooks.php:237 admin/includes/hooks.php:246
+msgid "Do you want to display it on account page?"
+msgstr "Kas soovite seda kuvada konto lehel?"
+
+#: admin/includes/hooks.php:300
+msgid "Registered Shipper"
+msgstr "Registreeritud saatja"
+
+#: admin/includes/hooks.php:479
+msgid "Shipment Status: "
+msgstr "Saadetise olek: "
+
+#: admin/includes/hooks.php:558
+msgid "SHIPPER DETAILS:"
+msgstr "SAATJA ANDMED:"
+
+#: admin/includes/hooks.php:566 admin/includes/hooks.php:584
+#: admin/templates/receiver-metabox.tpl.php:20
+#: admin/templates/shipper-metabox.tpl.php:15
+msgid "Address"
+msgstr "Aadress"
+
+#: admin/includes/hooks.php:567 admin/includes/hooks.php:585
+#: admin/templates/receiver-metabox.tpl.php:26
+#: admin/templates/shipper-metabox.tpl.php:19
+msgid "Email"
+msgstr "E-post"
+
+#: admin/includes/hooks.php:575
+msgid "RECEIVER DETAILS:"
+msgstr "VASTUVÕTJA ANDMED:"
+
+#: admin/includes/hooks.php:616
+msgid "PACKAGE DETAILS:"
+msgstr "PAKETI ANDMED:"
+
+#: admin/templates/account-settings.tpl.php:9
+msgid "Disable Search Client Shipper?"
+msgstr "Kas keelata otsingukliendi saatja?"
+
+#: admin/templates/account-settings.tpl.php:14
+msgid "Disable Search Client Receiver?"
+msgstr "Keela otsingu kliendi vastuvõtja?"
+
+#: admin/templates/account-settings.tpl.php:19
+msgid "Save Settings"
+msgstr "Salvesta seaded"
+
+#: admin/templates/admin-email-settings-option.tpl.php:7
+#: admin/templates/email-settings-option.tpl.php:7
+msgid "WPCargo Merge Tags"
+msgstr "WPCargo ühenda sildid"
+
+#: admin/templates/admin-email-settings-option.tpl.php:8
+#: admin/templates/email-settings-option.tpl.php:8
+msgid "Note: Use this tags for email setup to display shipment data."
+msgstr ""
+"Märge: Kasutage seda silti e-posti seadistamiseks saadetise andmete "
+"kuvamiseks."
+
+#: admin/templates/admin-email-settings-option.tpl.php:11
+#: admin/templates/email-settings-option.tpl.php:11
+msgid "Code"
+msgstr "Kood"
+
+#: admin/templates/admin-email-settings-option.tpl.php:12
+#: admin/templates/email-settings-option.tpl.php:12
+msgid "Label"
+msgstr "Silt"
+
+#: admin/templates/admin-email-settings-option.tpl.php:30
+msgid "Activate Admin Email Notification?"
+msgstr "Kas aktiveerida administraatori e-posti teatis?"
+
+#: admin/templates/admin-email-settings-option.tpl.php:32
+#: admin/templates/email-settings-option.tpl.php:33
+msgid "Please check if you want to send email after updating the shipment."
+msgstr ""
+"Palun kontrollige, kas soovite saata e-kirju pärast saadetise värskendamist."
+
+#: admin/templates/admin-email-settings-option.tpl.php:36
+#: admin/templates/email-settings-option.tpl.php:39
+msgid "Select Shipment Status to send email Notification"
+msgstr "Valige Saadetise olek, et saata e-posti teel teade"
+
+#: admin/templates/admin-email-settings-option.tpl.php:47
+#: admin/templates/email-settings-option.tpl.php:51
+msgid ""
+"Note: If no Shipment status is selected, Email Notify all types of shipment "
+"status"
+msgstr ""
+"Märkus: Kui saadetise olekut pole valitud, teavitage e-posti teel kõiki "
+"saadetise oleku tüüpe"
+
+#: admin/templates/admin-email-settings-option.tpl.php:51
+#: admin/templates/email-settings-option.tpl.php:55
+msgid "Domain Email"
+msgstr "Domeeni e-post"
+
+#: admin/templates/admin-email-settings-option.tpl.php:54
+#: admin/templates/email-settings-option.tpl.php:58
+msgid ""
+"Edit this if you want to change the header of your email automation. Default "
+"will be"
+msgstr ""
+"Redigeerige seda, kui soovite muuta oma meiliautomaatika päist. Vaikimisi on"
+
+#: admin/templates/admin-email-settings-option.tpl.php:58
+#: admin/templates/email-settings-option.tpl.php:63
+msgid "Mail To"
+msgstr "Saada e-posti aadressile"
+
+#: admin/templates/admin-email-settings-option.tpl.php:60
+#: admin/templates/email-settings-option.tpl.php:66
+msgid ""
+"Add emails with comma separated.(You can add WPCargo Merge Tags)<br>\n"
+"\t\t\t\t\tsample_1@mail.com, @sample_2@mail.com"
+msgstr ""
+"Lisage e-kirju komaeraldusega. (Saate lisada WPCargo ühenda "
+"silte)<br>sample_1@mail.com, @sample_2@mail.com"
+
+#: admin/templates/admin-email-settings-option.tpl.php:64
+#: admin/templates/email-settings-option.tpl.php:83
+msgid "Subject:"
+msgstr "Subjekt:"
+
+#: admin/templates/admin-email-settings-option.tpl.php:67
+#: admin/templates/email-settings-option.tpl.php:86
+msgid "Email Subject"
+msgstr "Emaili teema"
+
+#: admin/templates/admin-email-settings-option.tpl.php:71
+#: admin/templates/email-settings-option.tpl.php:91
+msgid "Message Content:"
+msgstr "Sõnumi sisu:"
+
+#: admin/templates/admin-email-settings-option.tpl.php:81
+#: admin/templates/email-settings-option.tpl.php:104
+msgid "Footer:"
+msgstr "Jalus:"
+
+#: admin/templates/admin-print-label.tpl.php:5
+msgid "Accounts Copy"
+msgstr "Kontode kopeerimine"
+
+#: admin/templates/admin-print-label.tpl.php:6
+msgid "Consignee Copy"
+msgstr "Kaubasaaja koopia"
+
+#: admin/templates/admin-print-label.tpl.php:7
+msgid "Shippers Copy"
+msgstr "Saatja koopia"
+
+#: admin/templates/admin-print-label.tpl.php:35 templates/account.tpl.php:19
+msgid "Delivery Date"
+msgstr "Kättetoimetamise kuupäev"
+
+#: admin/templates/admin-print-label.tpl.php:65
+msgid "Shipper"
+msgstr "Saatja"
+
+#: admin/templates/admin-print-label.tpl.php:67
+msgid "Consignee"
+msgstr "Kaubasaaja"
+
+#: admin/templates/admin-print-label.tpl.php:82
+msgid "Comment"
+msgstr "Kommentaar"
+
+#: admin/templates/assign-metabox.tpl.php:14
+msgid "Client"
+msgstr "Klient"
+
+#: admin/templates/assign-metabox.tpl.php:17
+msgid "-- Select Client --"
+msgstr "-- Vali Klient --"
+
+#: admin/templates/assign-metabox.tpl.php:34
+#: admin/templates/shipment-metabox.tpl.php:11
+#: admin/templates/shipment-metabox.tpl.php:44
+#: admin/templates/shipment-metabox.tpl.php:73
+#: admin/templates/shipment-metabox.tpl.php:97
+#: admin/templates/shipment-metabox.tpl.php:129
+#: admin/templates/shipment-metabox.tpl.php:150
+msgid "-- Select One --"
+msgstr "-- Valige üks --"
+
+#: admin/templates/assign-metabox.tpl.php:43
+msgid "No agents found, please add agents "
+msgstr "Agente ei leitud, palun lisage agente "
+
+#: admin/templates/assign-metabox.tpl.php:45
+#: admin/templates/shipment-metabox.tpl.php:21
+#: admin/templates/shipment-metabox.tpl.php:54
+#: admin/templates/shipment-metabox.tpl.php:83
+#: admin/templates/shipment-metabox.tpl.php:107
+#: admin/templates/shipment-metabox.tpl.php:139
+#: admin/templates/shipment-metabox.tpl.php:160
+msgid "here."
+msgstr "Siin."
+
+#: admin/templates/assign-metabox.tpl.php:47
+msgid " Make sure the role assign is \"WPCargo Agent\"."
+msgstr " Veenduge, et rolli määramine oleks \"WPCargo agent\"."
+
+#: admin/templates/assign-metabox.tpl.php:53
+msgid "Employee"
+msgstr "Töötaja"
+
+#: admin/templates/assign-metabox.tpl.php:56
+msgid "-- Select Employee --"
+msgstr "-- Vali Töötaja --"
+
+#: admin/templates/email-settings-option.tpl.php:30
+msgid "Activate Client Email Notification?"
+msgstr "Kas aktiveerida kliendi e-posti teatis?"
+
+#: admin/templates/email-settings-option.tpl.php:71
+msgid "Cc"
+msgstr "Cc"
+
+#: admin/templates/email-settings-option.tpl.php:74
+#: admin/templates/email-settings-option.tpl.php:80
+msgid ""
+"Add emails with comma separated. ( sample_1@mail.com, @sample_2@mail.com )"
+msgstr ""
+"Lisage e-kirju komaeraldusega. ( sample_1@mail.com, @sample_2@mail.com )"
+
+#: admin/templates/email-settings-option.tpl.php:78
+msgid "Bcc"
+msgstr "Salakoopia"
+
+#: admin/templates/history-map-settings.tpl.php:8
+msgid "Enable Shipment History Map"
+msgstr "Luba saadetiste ajaloo kaart"
+
+#: admin/templates/history-map-settings.tpl.php:14
+msgid "Display Map in result page?"
+msgstr "Kuva kaart tulemuste lehel?"
+
+#: admin/templates/history-map-settings.tpl.php:17
+msgid ""
+"Note: This option will take effect only in the result page when \"Shipment "
+"History Map\" option is enabled."
+msgstr ""
+"Märkused: See valik jõustub ainult tulemuste lehel, kui valik \"Saadetise "
+"ajaloo kaart\" on lubatud."
+
+#: admin/templates/history-map-settings.tpl.php:21
+msgid "Map Type"
+msgstr "Tipul hărții"
+
+#: admin/templates/history-map-settings.tpl.php:24
+msgid "--Select Map Type--"
+msgstr "--Valige kaardi tüüp --"
+
+#: admin/templates/history-map-settings.tpl.php:25
+msgid "Terrain"
+msgstr "Maastik"
+
+#: admin/templates/history-map-settings.tpl.php:26
+msgid "Satellite"
+msgstr "Kaabel TV"
+
+#: admin/templates/history-map-settings.tpl.php:27
+msgid "Roadmap"
+msgstr "Teekaart"
+
+#: admin/templates/history-map-settings.tpl.php:28
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: admin/templates/history-map-settings.tpl.php:30
+msgid "note: Default is Terrain."
+msgstr "märkus: Vaikimisi on maastik."
+
+#: admin/templates/history-map-settings.tpl.php:34
+msgid "Zoom Level"
+msgstr "Suumi tase"
+
+#: admin/templates/history-map-settings.tpl.php:37
+msgid "--Select Zoom Level--"
+msgstr "--Valige suumitase --"
+
+#: admin/templates/history-map-settings.tpl.php:38
+msgid "World"
+msgstr "Maailm"
+
+#: admin/templates/history-map-settings.tpl.php:39
+msgid "Landmass/continent"
+msgstr "Maamass/manner"
+
+#: admin/templates/history-map-settings.tpl.php:40
+msgid "City"
+msgstr "Linn"
+
+#: admin/templates/history-map-settings.tpl.php:41
+msgid "Streets"
+msgstr "Tänavad"
+
+#: admin/templates/history-map-settings.tpl.php:42
+msgid "Buildings"
+msgstr "Hooned"
+
+#: admin/templates/history-map-settings.tpl.php:44
+msgid "note: Default is Streets."
+msgstr "märkus: Vaikimisi on tänavad."
+
+#: admin/templates/history-map-settings.tpl.php:48
+msgid "Google Map API Key"
+msgstr "Google Map API võti"
+
+#: admin/templates/history-map-settings.tpl.php:51
+msgid "Please click here to get Google Map API Key"
+msgstr "Google Map API võtme saamiseks klõpsake siin"
+
+#: admin/templates/history-map-settings.tpl.php:51
+msgid "Get API Key"
+msgstr "Hankige API võti"
+
+#: admin/templates/history-map-settings.tpl.php:52
+msgid ""
+"Note: Google Map API Key needs to enable the following API's to make it work."
+msgstr ""
+"Märge: Google Map API Key peab selle toimimiseks lubama järgmised API-d."
+
+#: admin/templates/history-map-settings.tpl.php:54
+msgid "Places API"
+msgstr "Kohtade API"
+
+#: admin/templates/history-map-settings.tpl.php:55
+msgid "Maps JavaScript API"
+msgstr "Vastendab JavaScript API"
+
+#: admin/templates/history-map-settings.tpl.php:56
+msgid "Geolocation API"
+msgstr "Geograafilise asukoha API"
+
+#: admin/templates/history-map-settings.tpl.php:57
+msgid "Geocoding API"
+msgstr "Geokodeerimise API"
+
+#: admin/templates/history-map-settings.tpl.php:63
+msgid "Point of Orgin"
+msgstr "Orgini punkt"
+
+#: admin/templates/history-map-settings.tpl.php:69
+msgid "Note: Dag the map marker to generate Point of Orgin"
+msgstr "Märkus: Dag kaardimarker Orgini punkti genereerimiseks"
+
+#: admin/templates/history-map-settings.tpl.php:76
+msgid "Longitude"
+msgstr "Pikkuskraad"
+
+#: admin/templates/history-map-settings.tpl.php:82
+msgid "Latitude"
+msgstr "Laiuskraad"
+
+#: admin/templates/history-map-settings.tpl.php:88
+msgid "Country Restriction"
+msgstr "Riigipiirang"
+
+#: admin/templates/history-map-settings.tpl.php:92
+#, php-format
+msgid ""
+"Please enter %s compatible country code. This is to limit the results for "
+"you chosen country only."
+msgstr ""
+"Sisestage %s ühilduv riigikood. Selle eesmärk on piirata ainult teie valitud "
+"riigi tulemusi."
+
+#: admin/templates/history-map-settings.tpl.php:98
+msgid "Google Map Label Color"
+msgstr "Google Mapi sildi värv"
+
+#: admin/templates/history-map-settings.tpl.php:104
+msgid "Google Map Label Size"
+msgstr "Google Mapi sildi suurus"
+
+#: admin/templates/history-map-settings.tpl.php:109
+msgid "Google Map Marker"
+msgstr "Google'i kaardi marker"
+
+#: admin/templates/history-map-settings.tpl.php:111
+#: admin/templates/settings-option.tpl.php:36
+msgid "Upload Logo"
+msgstr "Lisa logo"
+
+#: admin/templates/history-map-settings.tpl.php:143
+msgid "Note: Marker must be 55px X 55px dimension for best output."
+msgstr ""
+"Märge: Parima väljundi saavutamiseks peab marker olema 55px X 55px mõõde."
+
+#: admin/templates/history-map-settings.tpl.php:146
+msgid "Save Map Settings"
+msgstr "Salvesta kaardi seaded"
+
+#: admin/templates/package-metabox.tpl.php:35
+#: admin/templates/package-metabox.tpl.php:50
+#: admin/templates/shipment-history-editable.tpl.php:35
+msgid "Delete"
+msgstr "Kustuta"
+
+#: admin/templates/package-metabox.tpl.php:57
+msgid "Add Package"
+msgstr "Lisa pakett"
+
+#: admin/templates/print-details-shipment.tpl.php:27
+#: templates/result-form-shipment-details.tpl.php:24
+msgid "Shipment Information"
+msgstr "Saadetise teave"
+
+#: admin/templates/print-details-shipment.tpl.php:29
+#: templates/result-form-shipment-details.tpl.php:27
+msgid "Origin:"
+msgstr "Päritolu:"
+
+#: admin/templates/print-details-shipment.tpl.php:33
+#: templates/result-form-shipment-details.tpl.php:31
+msgid "Package:"
+msgstr "Pakett:"
+
+#: admin/templates/print-details-shipment.tpl.php:37
+#: templates/result-form-shipment-details.tpl.php:35
+msgid "Status:"
+msgstr "Olek:"
+
+#: admin/templates/print-details-shipment.tpl.php:43
+#: templates/result-form-shipment-details.tpl.php:39
+msgid "Destination:"
+msgstr "Sihtkoht:"
+
+#: admin/templates/print-details-shipment.tpl.php:47
+#: templates/result-form-shipment-details.tpl.php:43
+msgid "Carrier:"
+msgstr "Veofirma:"
+
+#: admin/templates/print-details-shipment.tpl.php:51
+#: templates/result-form-shipment-details.tpl.php:47
+msgid "Type of Shipment:"
+msgstr "Saadetise liik:"
+
+#: admin/templates/print-details-shipment.tpl.php:55
+#: templates/result-form-shipment-details.tpl.php:51
+msgid "Weight:"
+msgstr "Kaal:"
+
+#: admin/templates/print-details-shipment.tpl.php:59
+#: templates/result-form-shipment-details.tpl.php:55
+msgid "Shipment Mode:"
+msgstr "Saatmise viis:"
+
+#: admin/templates/print-details-shipment.tpl.php:63
+#: templates/result-form-shipment-details.tpl.php:59
+msgid "Carrier Reference No.:"
+msgstr "Vedaja viitenumber:"
+
+#: admin/templates/print-details-shipment.tpl.php:67
+#: templates/result-form-shipment-details.tpl.php:63
+msgid "Product:"
+msgstr "Toode:"
+
+#: admin/templates/print-details-shipment.tpl.php:71
+#: templates/result-form-shipment-details.tpl.php:67
+msgid "Qty:"
+msgstr "Tk:"
+
+#: admin/templates/print-details-shipment.tpl.php:75
+#: templates/result-form-shipment-details.tpl.php:71
+msgid "Payment Mode:"
+msgstr "Makseviis:"
+
+#: admin/templates/print-details-shipment.tpl.php:79
+#: templates/result-form-shipment-details.tpl.php:75
+msgid "Total Freight:"
+msgstr "Kaubavedu kokku:"
+
+#: admin/templates/print-details-shipment.tpl.php:83
+#: templates/result-form-shipment-details.tpl.php:79
+msgid "Expected Delivery Date:"
+msgstr "Eeldatav tarnekuupäev:"
+
+#: admin/templates/print-details-shipment.tpl.php:87
+#: templates/result-form-shipment-details.tpl.php:83
+msgid "Departure Time:"
+msgstr "Väljumisaeg:"
+
+#: admin/templates/print-details-shipment.tpl.php:91
+#: templates/result-form-shipment-details.tpl.php:87
+msgid "Pick-up Date:"
+msgstr "Kättesaamise kuupäev:"
+
+#: admin/templates/print-details-shipment.tpl.php:95
+#: templates/result-form-shipment-details.tpl.php:91
+msgid "Pick-up Time:"
+msgstr "Pealevõtmise aeg:"
+
+#: admin/templates/print-details-shipment.tpl.php:99
+#: templates/result-form-shipment-details.tpl.php:95
+msgid "Comments:"
+msgstr "Lisainfo:"
+
+#: admin/templates/receiver-metabox.tpl.php:2
+msgid "Receiver Details"
+msgstr "Vastuvõtja üksikasjad"
+
+#: admin/templates/settings-fields-option.tpl.php:2
+msgid "Add Type of Shipment"
+msgstr "Lisage saadetise tüüp"
+
+#: admin/templates/settings-fields-option.tpl.php:4
+msgid "Ex. Shipment 1, Shipment 2, Shipment 3"
+msgstr "nt saadetis 1, saadetis 2, saadetis 3"
+
+#: admin/templates/settings-fields-option.tpl.php:5
+#: admin/templates/settings-fields-option.tpl.php:12
+#: admin/templates/settings-fields-option.tpl.php:19
+#: admin/templates/settings-fields-option.tpl.php:27
+#: admin/templates/settings-fields-option.tpl.php:34
+#: admin/templates/settings-option.tpl.php:28
+msgid "Must be comma separated"
+msgstr "Tuleb koma eraldada"
+
+#: admin/templates/settings-fields-option.tpl.php:9
+msgid "Add Shipment Mode"
+msgstr "Lisa saatmisrežiim"
+
+#: admin/templates/settings-fields-option.tpl.php:11
+msgid "Ex. Shipment Mode 1, Shipment Mode 2, Shipment Mode 3"
+msgstr "nt saatmisrežiim 1, saatmisviis 2, saatmisviis 3"
+
+#: admin/templates/settings-fields-option.tpl.php:16
+msgid "Add Shipment Location"
+msgstr "Lisa Saadetise asukoht"
+
+#: admin/templates/settings-fields-option.tpl.php:18
+msgid "Ex. Afghanistan, Albania, Algeria"
+msgstr "Nt Afganistan, Albaania, Alžeeria"
+
+#: admin/templates/settings-fields-option.tpl.php:20
+msgid ""
+"Note: If you have WPCargo Custom Field Add-on installed, go to Manage form "
+"Fields to update list of locations."
+msgstr ""
+"märkused: Kui teil on installitud WPCargo kohandatud välja lisandmoodul, "
+"minge asukohtade loendi värskendamiseks vormiväljade haldamine."
+
+#: admin/templates/settings-fields-option.tpl.php:24
+msgid "Add Shipment Carrier"
+msgstr "Lisa saadetise vedaja"
+
+#: admin/templates/settings-fields-option.tpl.php:26
+msgid "Ex. Shipment Carrier 1, Shipment Carrier 2, Shipment Carrier 3"
+msgstr "nt saadetise vedaja 1, saadetise vedaja 2, saadetise vedaja 3"
+
+#: admin/templates/settings-fields-option.tpl.php:31
+msgid "Add Shipment Payment Mode"
+msgstr "Lisa saadetise makseviis"
+
+#: admin/templates/settings-fields-option.tpl.php:33
+msgid "Ex. Payment Mode 1, Payment Mode 2, Payment Mode 3"
+msgstr "nt makseviis 1, makseviis 2, makseviis 3"
+
+#: admin/templates/settings-option.tpl.php:27
+msgid "Ex. Shipment Status 1, Shipment Status 2, Shipment Status 3"
+msgstr "nt saadetise olek 1, saadetise olek 2, saadetise olek 3"
+
+#: admin/templates/settings-option.tpl.php:32
+msgid "Add Shipment Logo"
+msgstr "Lisa saadetise logo"
+
+#: admin/templates/settings-option.tpl.php:35
+msgid "Note: Prefered logo size 190px X 60px"
+msgstr "Märge: Eelistatud logo suurus 190px X 60px"
+
+#: admin/templates/settings-option.tpl.php:69
+msgid "Display Barcode?"
+msgstr "Kuva vöötkood?"
+
+#: admin/templates/settings-option.tpl.php:72
+msgid "Check if you want to display barcode at the results."
+msgstr "Kontrollige, kas soovite tulemuste juures kuvada vöötkoodi."
+
+#: admin/templates/settings-option.tpl.php:76
+msgid "Track Page Settings"
+msgstr "Jälgi lehe sätteid"
+
+#: admin/templates/settings-option.tpl.php:80
+msgid "--Select Page--"
+msgstr "--Vali leht--"
+
+#: admin/templates/settings-option.tpl.php:85
+msgid "Select a page to insert"
+msgstr "Lisatava lehe valimine"
+
+#: admin/templates/settings-option.tpl.php:88
+msgid "Edit Page"
+msgstr "Muuda lehte"
+
+#: admin/templates/settings-option.tpl.php:89
+msgid "View Page"
+msgstr "Vaata lehte"
+
+#: admin/templates/settings-option.tpl.php:101
+msgid "Print Settings"
+msgstr "Prindi seaded"
+
+#: admin/templates/settings-option.tpl.php:104
+msgid "Font family"
+msgstr "Fonti perekond"
+
+#: admin/templates/settings-option.tpl.php:107
+msgid "Default"
+msgstr "Vaikimisi"
+
+#: admin/templates/settings-option.tpl.php:115
+msgid "Font Size"
+msgstr "Fonti suurus"
+
+#: admin/templates/settings-option.tpl.php:121
+msgid "Shipment Number Format"
+msgstr "Saadetise numbri vorming"
+
+#: admin/templates/settings-option.tpl.php:124
+msgid "Enable Restrict Duplicate Shipment Number"
+msgstr "Luba piirake saadetise duplikaadi numbrit"
+
+#: admin/templates/settings-option.tpl.php:130
+msgid "Enable Autogenerate Shipment Number?"
+msgstr "Kas lubada saadetise numbri automaatne genereerimine?"
+
+#: admin/templates/settings-option.tpl.php:136
+msgid "Shipment Number Prefix"
+msgstr "Saadetise numbri eesliide"
+
+#: admin/templates/settings-option.tpl.php:142
+msgid "Shipment Number Suffix"
+msgstr "Saadetise numbri järelliide"
+
+#: admin/templates/settings-option.tpl.php:149
+msgid "Shipment Number of Digits"
+msgstr "Saadetise numbrite arv"
+
+#: admin/templates/settings-option.tpl.php:153
+msgid ""
+"This will be the number of digits that autocreate shipment title. Note: The "
+"default number of digits is 12 and minumum of 4 digits"
+msgstr ""
+"See on numbrite arv, mis loovad automaatselt saadetise pealkirja. Märkus: "
+"Vaikimisi on numbrite arv 12 ja miinus 4-kohaline"
+
+#: admin/templates/settings-option.tpl.php:157
+msgid "Base color"
+msgstr "Põhivärv"
+
+#: admin/templates/settings-option.tpl.php:163
+msgid "TAX(%)"
+msgstr "KÄIBEMAKS(%)"
+
+#: admin/templates/settings-option.tpl.php:166
+msgid ""
+"Note: This setting is optional, some of the WPCargo add on plugins use this "
+"data."
+msgstr ""
+"Märge: See säte on valikuline, mõned WPCargo lisandmoodulid kasutavad neid "
+"andmeid."
+
+#: admin/templates/settings-option.tpl.php:170
+msgid "Shipment History Settings"
+msgstr "Saadetise ajaloo seaded"
+
+#: admin/templates/settings-option.tpl.php:173
+msgid "Display Shipment History in Invoice"
+msgstr "Saadetise ajaloo kuvamine arvel"
+
+#: admin/templates/settings-option.tpl.php:179
+msgid "Enable User Timezone"
+msgstr "Luba kasutaja ajavöönd"
+
+#: admin/templates/settings-option.tpl.php:185
+msgid "Allow Roles to update shipment history"
+msgstr "Luba rollidel värskendada saadetise ajalugu"
+
+#: admin/templates/settings-option.tpl.php:202
+msgid "Assign Shipment Email Settings"
+msgstr "Saadetise e-posti seadete määramine"
+
+#: admin/templates/settings-option.tpl.php:205
+msgid "Disable Email for Employee?"
+msgstr "Keela e-posti aadress töötajale?"
+
+#: admin/templates/settings-option.tpl.php:211
+msgid "Disable Email for Agent?"
+msgstr "Keela e-posti aadress agendile?"
+
+#: admin/templates/settings-option.tpl.php:217
+msgid "Disable Email for Client?"
+msgstr "Keela e-posti aadress kliendile?"
+
+#: admin/templates/shipment-history.tpl.php:33
+msgid "No Shipment History Found."
+msgstr "Saadetise ajalugu ei leitud."
+
+#: admin/templates/shipment-metabox.tpl.php:20
+#: admin/templates/shipment-metabox.tpl.php:53
+#: admin/templates/shipment-metabox.tpl.php:82
+#: admin/templates/shipment-metabox.tpl.php:106
+#: admin/templates/shipment-metabox.tpl.php:138
+#: admin/templates/shipment-metabox.tpl.php:159
+msgid "No Selection setup, Please add selection"
+msgstr "Valiku seadistamine puudub, palun lisage valik"
+
+#: admin/templates/shipment-metabox.tpl.php:171
+msgid "Pickup Time :"
+msgstr "Pealevõtmise aeg :"
+
+#: admin/templates/shipper-metabox.tpl.php:2
+msgid "Shipper Details"
+msgstr "Saatja andmed"
+
+#: admin/templates/user-profile.tpl.php:1
+msgid "User Profile"
+msgstr "Kasutaja profiil"
+
+#: admin/templates/user-profile.tpl.php:4
+msgid "Timezone"
+msgstr "Ajavöönd"
+
+#: admin/templates/user-profile.tpl.php:9
+msgid ""
+"Choose user timezone. This will override general settings timezone for user."
+msgstr "Valige kasutaja ajavöönd. See alistab kasutaja üldised seaded."
+
+#: admin/templates/user-profile.tpl.php:13
+msgid "Company Logo"
+msgstr "Ettevõtte logo"
+
+#: admin/templates/user-profile.tpl.php:21
+msgid "Upload Company Logo"
+msgstr "Laadige üles ettevõtte logo"
+
+#: admin/templates/user-profile.tpl.php:25
+msgid "Business Registration #"
+msgstr "Ettevõtte registreerimine #"
+
+#: admin/templates/user-profile.tpl.php:31
+msgid "GST Account #"
+msgstr "GST konto #"
+
+#: admin/templates/user-profile.tpl.php:37
+msgid "Minimum Notification Unit"
+msgstr "Minimaalne teavitusüksus"
+
+#: classes/class-wpc-print.php:35 classes/class-wpc-print.php:39
+msgid "Print Invoice"
+msgstr "Ava arve fail"
+
+#: includes/packages.php:8
+msgctxt "Weigt units"
+msgid "kg"
+msgstr "Kg"
+
+#: includes/packages.php:9
+msgctxt "Weigt units"
+msgid "g"
+msgstr "g"
+
+#: includes/packages.php:10
+msgctxt "Weigt units"
+msgid "lbs"
+msgstr "naela"
+
+#: includes/packages.php:11
+msgctxt "Weigt units"
+msgid "oz"
+msgstr "Oz"
+
+#: includes/packages.php:17
+msgctxt "Dimension units"
+msgid "mm"
+msgstr "kk"
+
+#: includes/packages.php:18
+msgctxt "Dimension units"
+msgid "cm"
+msgstr "Cm"
+
+#: includes/packages.php:19
+msgctxt "Dimension units"
+msgid "m"
+msgstr "m"
+
+#: includes/packages.php:20
+msgctxt "Dimension units"
+msgid "in"
+msgstr "sisse"
+
+#: includes/packages.php:21
+msgctxt "Dimension units"
+msgid "ft"
+msgstr "Ft"
+
+#: includes/packages.php:22
+msgctxt "Dimension units"
+msgid "yd"
+msgstr "Yd"
+
+#: includes/packages.php:142
+msgid "Total Volumetric Weight :"
+msgstr "Kogu mahukaal :"
+
+#: includes/packages.php:145
+msgid "Total Volume :"
+msgstr "Kogumaht :"
+
+#: includes/packages.php:149
+msgid "Total Actual Weight :"
+msgstr "Tegelik kaal kokku :"
+
+#: includes/packages.php:308
+msgid "Qty."
+msgstr "Kogus."
+
+#: includes/packages.php:314
+msgid "Piece Type"
+msgstr "Tüki tüüp"
+
+#: includes/packages.php:320
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: includes/packages.php:347
+msgid "Weight "
+msgstr "Kaal "
+
+#: includes/packages.php:363
+msgid "cu. m."
+msgstr "cu. m."
+
+#: includes/packages.php:365
+msgid "cu. ft."
+msgstr "cu. ft."
+
+#: templates/account-cf.tpl.php:29 templates/account-cf.tpl.php:47
+#: templates/account.tpl.php:25
+msgid "View More"
+msgstr "Rohkem infot"
+
+#: templates/account-cf.tpl.php:32 templates/account.tpl.php:1
+msgid "Welcome"
+msgstr "Tere tulemast"
+
+#: templates/account-cf.tpl.php:34 templates/account.tpl.php:3
+msgid "Shipment List"
+msgstr "Saadetiste nimekiri"
+
+#: templates/account-cf.tpl.php:39 templates/account.tpl.php:18
+msgid "Tracking #"
+msgstr "Jälgimise #"
+
+#: templates/account-cf.tpl.php:67 templates/account.tpl.php:42
+msgid "View Details"
+msgstr "Vaata andmeid"
+
+#: templates/account-cf.tpl.php:72
+msgid "No Shipment found!"
+msgstr "Saadetist ei leitud!"
+
+#: templates/account.tpl.php:6
+msgid "Sort"
+msgstr "Sorteeri"
+
+#: templates/account.tpl.php:8
+msgid "All"
+msgstr "Kõik"
+
+#: templates/account.tpl.php:9 templates/account.tpl.php:40
+msgid "Owned"
+msgstr "Omandis"
+
+#: templates/account.tpl.php:10 templates/account.tpl.php:40
+msgid "Receivable"
+msgstr "Saadaolev"
+
+#: templates/account.tpl.php:20
+msgid "Product Qty."
+msgstr "Toote kogus."
+
+#: templates/account.tpl.php:23
+msgid "Designation"
+msgstr "Määramine"
+
+#: templates/account.tpl.php:49
+msgid "No shipment found!"
+msgstr "Saadetist ei leitud!"
+
+#: templates/package.tpl.php:39
+msgid "Data empty"
+msgstr "Andmed on tühjad"
+
+#: templates/report.tpl.php:3
+msgid "Shipper Name:"
+msgstr "Saatja nimi:"
+
+#: templates/report.tpl.php:6
+msgid "Registered Shipper:"
+msgstr "Registreeritud saatja:"
+
+#: templates/report.tpl.php:8
+msgid "-- Registered Shipper --"
+msgstr "-- Registreeritud saatja --"
+
+#: templates/report.tpl.php:15
+msgid "Date Range"
+msgstr "Kuupäevade vahemik"
+
+#: templates/report.tpl.php:17
+msgid "From : "
+msgstr "Albaania: "
+
+#: templates/report.tpl.php:19
+msgid "To : "
+msgstr "Kellele: "
+
+#: templates/report.tpl.php:27
+msgid "Choose Status"
+msgstr "Valige Olek"
+
+#: templates/report.tpl.php:37
+msgid "Select Option"
+msgstr "Valige valik"
+
+#: templates/report.tpl.php:73
+msgid "Generate Report"
+msgstr "Loo aruanne"
+
+#: templates/report.tpl.php:74
+msgid ""
+"Note: This will take a couple of seconds to generate reports, wait for a pop "
+"up message to save your report."
+msgstr ""
+"Märkused: Aruannete genereerimiseks kulub paar sekundit, oodake hüpiksõnumit "
+"aruande salvestamiseks."
+
+#: templates/result-form-shipper-details.tpl.php:13
+msgid "Shipper Information"
+msgstr "Saatja teave"
+
+#: templates/result-form-shipper-details.tpl.php:22
+msgid "Receiver Information"
+msgstr "Vastuvõtja teave"
+
+#: templates/result-form.tpl.php:27
+msgid "No results found!"
+msgstr "Tulemusi ei leitud!"
+
+#: templates/track-form.tpl.php:65
+msgid "Enter the Consignment No."
+msgstr "Sisestage saadetis nr."
+
+#: templates/track-form.tpl.php:69
+msgid "Enter Tracking Number"
+msgstr "Sisestage jälgimisnumber"
+
+#: templates/track-form.tpl.php:70
+msgid "TRACK RESULT"
+msgstr "RAJA TULEMUS"
+
+#: templates/track-form.tpl.php:72
+msgid "Ex: 12345"
+msgstr "Nt: 12345"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wptaskforce.com/"
+msgstr "http://wptaskforce.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WPCargo is a WordPress plug-in designed to provide ideal technology solution "
+"for your Cargo and Courier Operations. Whether you are an exporter, freight "
+"forwarder, importer, supplier, customs broker, overseas agent, or warehouse "
+"operator, WPCargo helps you to increase the visibility, efficiency, and "
+"quality services of your cargo and shipment business."
+msgstr ""
+"WPCargo on WordPressi pistikprogramm, mis on loodud pakkuma ideaalset "
+"tehnoloogilist lahendust teie lasti- ja kulleritoimingute jaoks. Olenemata "
+"sellest, kas olete eksportija, ekspediitor, importija, tarnija, "
+"tollimaakler, välisagent või laooperaator, aitab WPCargo teil suurendada oma "
+"veoste ja saadetiste ettevõtte nähtavust, tõhusust ja kvaliteetseid "
+"teenuseid."
+
+#. Author of the plugin/theme
+msgid "<a href=\"http://www.wptaskforce.com/\">WPTaskForce</a>"
+msgstr "<a href=\"http://www.wptaskforce.com/\">WPTaskForce</a>"
